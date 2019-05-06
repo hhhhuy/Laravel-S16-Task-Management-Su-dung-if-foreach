@@ -46,17 +46,6 @@
                        name="inputDueDate"
                        required>
             </div>
-            <div class="form-group">
-                <label for="inputFileName">File Name</label>
-                <input type="text"
-                       class="form-control"
-                       id="inputFileName"
-                       name="inputFileName">
-                <input type="file"
-                       class="form-control-file"
-                       id="inputFile"
-                       name="inputFile">
-            </div>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
         <hr>
